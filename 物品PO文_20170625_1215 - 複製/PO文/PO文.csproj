@@ -72,12 +72,6 @@
     <Compile Include="CASE物品完整資訊Form.Designer.cs">
       <DependentUpon>CASE物品完整資訊Form.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="MyCase清單Form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -142,9 +136,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CASE物品完整資訊Form.resx">
       <DependentUpon>CASE物品完整資訊Form.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MyCase清單Form.resx">
       <DependentUpon>MyCase清單Form.cs</DependentUpon>

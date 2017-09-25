@@ -407,9 +407,9 @@ namespace PO文
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MyCase清單Form mycase = new MyCase清單Form();
-            mycase.label7.Name = mem.ToString();
-            mycase.ShowDialog();
+            MyCase清單Form mygoodcase = new MyCase清單Form();
+            mygoodcase.label7.Name = mem.ToString();
+            mygoodcase.ShowDialog();
         }
         
         public void functions(int cas)//方法:刷新完整資訊

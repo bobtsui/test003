@@ -430,3 +430,6 @@ D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.瀏覽CASE
 D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.版主PO文送出Form.resources
 D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.發問.resources
 D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\Git\test003\物品PO文_20170625_1215 - 複製\PO文\bin\Debug\PO文.exe.config
+D:\Git\test003\物品PO文_20170625_1215 - 複製\PO文\obj\Debug\PO文.exe
+D:\Git\test003\物品PO文_20170625_1215 - 複製\PO文\obj\Debug\PO文.pdb
