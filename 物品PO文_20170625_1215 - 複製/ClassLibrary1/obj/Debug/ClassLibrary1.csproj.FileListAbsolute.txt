@@ -1,0 +1,121 @@
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170617_1426\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\專題\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

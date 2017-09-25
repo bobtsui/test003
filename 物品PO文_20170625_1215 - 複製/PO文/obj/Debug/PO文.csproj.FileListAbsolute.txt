@@ -1,0 +1,432 @@
+D:\企業專題\PO文\PO文\bin\Debug\PO文.exe.config
+D:\企業專題\PO文\PO文\bin\Debug\PO文.exe
+D:\企業專題\PO文\PO文\bin\Debug\PO文.pdb
+D:\企業專題\PO文\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\企業專題\PO文\PO文\obj\Debug\PO文.Form1.resources
+D:\企業專題\PO文\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\企業專題\PO文\PO文\obj\Debug\PO文.QandA.resources
+D:\企業專題\PO文\PO文\obj\Debug\PO文.ShowPo.resources
+D:\企業專題\PO文\PO文\obj\Debug\PO文.simplePo.resources
+D:\企業專題\PO文\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\企業專題\PO文\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\企業專題\PO文\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\企業專題\PO文\PO文\obj\Debug\PO文.exe
+D:\企業專題\PO文\PO文\obj\Debug\PO文.pdb
+D:\企業專題\PO文\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\企業專題\PO文\PO文\obj\Debug\PO文.發問.resources
+D:\企業專題\物品PO文_20170617_1426\PO文\bin\Debug\PO文.exe.config
+D:\企業專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.exe
+D:\企業專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\PO文.exe.config
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\EntityFramework.dll
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\EntityFramework.xml
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題\物品PO文_20170617_1426\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.Form1.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.QandA.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.ShowPo.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.simplePo.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.發問.resources
+D:\資策會\專題\物品PO文_20170617_1426\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\PO文.exe.config
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\EntityFramework.dll
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\EntityFramework.xml
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題\物品PO文_20170618_1546\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.Form1.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.QandA.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.ShowPo.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.simplePo.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.發問.resources
+D:\資策會\專題\物品PO文_20170618_1546\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\PO文.exe.config
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\EntityFramework.dll
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\EntityFramework.xml
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題\物品PO文_20170618_1643\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.Form1.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.QandA.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.ShowPo.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.simplePo.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.發問.resources
+D:\資策會\專題\物品PO文_20170618_1643\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\PO文.exe.config
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\EntityFramework.dll
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\EntityFramework.xml
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題\物品PO文_20170618_1655\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.Form1.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.QandA.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.ShowPo.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.simplePo.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.發問.resources
+D:\資策會\專題\物品PO文_20170618_1655\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe.config
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.pdb
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe.config
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.exe
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.pdb
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\PO文.pdb
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.dll
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.xml
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題\物品PO文_20170618_1737\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Form1.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.QandA.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.發問.resources
+D:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+G:\專題\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe.config
+G:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.exe
+G:\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\PO文.pdb
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.dll
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.xml
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題\物品PO文_20170618_1737\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Form1.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.QandA.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.ShowPo.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.simplePo.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.發問.resources
+D:\資策會\專題\物品PO文_20170618_1737\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe.config
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.exe
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.pdb
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\PO文.pdb
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.xml
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Form1.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.QandA.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.發問.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\專題 - 0619_2244\物品PO文_20170618_1737\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe.config
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.exe
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.pdb
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\PO文.exe
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\PO文.pdb
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.xml
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Form1.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.QandA.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.發問.resources
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\專題 - 0620_2113\物品PO文_20170618_1737\PO文\obj\Debug\PO文.Ans.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\PO文.exe.config
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.exe
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.pdb
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\PO文.exe
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\PO文.pdb
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.dll
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.xml
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Ans.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Form1.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.QandA.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.發問.resources
+D:\專題 - 0620_2113\物品PO文_20170621_1741\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\PO文.exe.config
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.exe
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.pdb
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\PO文.exe
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\PO文.pdb
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.xml
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Ans.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Form1.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.QandA.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.ShowPo.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.simplePo.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.發問.resources
+D:\資策會\專題 - 0621\物品PO文_20170621_1741\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\PO文.exe.config
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.exe
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.pdb
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\PO文.exe
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\PO文.pdb
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.xml
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Ans.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Form1.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.QandA.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.發問.resources
+D:\專題 - 0621_2358\物品PO文_20170621_1741\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\PO文.exe.config
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.exe
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.pdb
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\PO文.exe
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\PO文.pdb
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\EntityFramework.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\EntityFramework.xml
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.Ans.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.Form1.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.QandA.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.發問.resources
+D:\專題 - 0621_2358\物品PO文_20170622_1757\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\PO文.exe.config
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.exe
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.pdb
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\PO文.exe
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\PO文.pdb
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.dll
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.xml
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Ans.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Form1.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.QandA.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.發問.resources
+D:\專題 - 0622_2220\物品PO文_20170622_2017\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\PO文.exe.config
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.exe
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.pdb
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\PO文.exe
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\PO文.pdb
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\ClassLibrary1.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\ClassLibrary1.pdb
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.xml
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Ans.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Form1.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.QandA.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.ShowPo.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.simplePo.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.發問.resources
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\資策會\專題 - 0623_1707\物品PO文_20170622_2017\PO文\obj\Debug\PO文.BuyForm.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\PO文.exe.config
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.exe
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.pdb
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\PO文.exe
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\PO文.pdb
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.xml
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Ans.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.BuyForm.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Form1.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.QandA.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.發問.resources
+D:\專題 - 0625_0015\物品PO文_20170622_2017\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\PO文.exe.config
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.exe
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.pdb
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\PO文.exe
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\PO文.pdb
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\ClassLibrary1.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\EntityFramework.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\EntityFramework.SqlServer.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\ClassLibrary1.pdb
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\EntityFramework.xml
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\EntityFramework.SqlServer.xml
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.csprojResolveAssemblyReference.cache
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.Ans.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.BuyForm.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.CASE物品完整資訊Form.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.Form1.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.MyCase清單Form.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.Properties.Resources.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.QandA.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.ShowPo.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.simplePo.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.UserControlsimplepo.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.修改CASEForm.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.瀏覽CASE列表Form.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.版主PO文送出Form.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.發問.resources
+D:\專題 - 0625_0015\物品PO文_20170625_1215\PO文\obj\Debug\PO文.csproj.GenerateResource.Cache

@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ManPowerModelStoreContainer" CdmEntityContainer="ManPowerEntities">
+    <EntitySetMapping Name="AdminArticles">
+      <EntityTypeMapping TypeName="ManPowerModel.AdminArticle">
+        <MappingFragment StoreEntitySet="AdminArticle">
+          <ScalarProperty Name="AdminArticleID" ColumnName="AdminArticleID" />
+          <ScalarProperty Name="AdminID" ColumnName="AdminID" />
+          <ScalarProperty Name="AdminArticleContent" ColumnName="AdminArticleContent" />
+          <ScalarProperty Name="AdminArticleTime" ColumnName="AdminArticleTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Administrators">
+      <EntityTypeMapping TypeName="ManPowerModel.Administrator">
+        <MappingFragment StoreEntitySet="Administrator">
+          <ScalarProperty Name="AdminID" ColumnName="AdminID" />
+          <ScalarProperty Name="Apassword" ColumnName="Apassword" />
+          <ScalarProperty Name="Authority" ColumnName="Authority" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Advertisements">
+      <EntityTypeMapping TypeName="ManPowerModel.Advertisement">
+        <MappingFragment StoreEntitySet="Advertisement">
+          <ScalarProperty Name="AdID" ColumnName="AdID" />
+          <ScalarProperty Name="AdContent" ColumnName="AdContent" />
+          <ScalarProperty Name="ImageID" ColumnName="ImageID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Buys">
+      <EntityTypeMapping TypeName="ManPowerModel.Buy">
+        <MappingFragment StoreEntitySet="Buy">
+          <ScalarProperty Name="BuyID" ColumnName="BuyID" />
+          <ScalarProperty Name="GdsID" ColumnName="GdsID" />
+          <ScalarProperty Name="MemberID" ColumnName="MemberID" />
+          <ScalarProperty Name="BuyQty" ColumnName="BuyQty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cases">
+      <EntityTypeMapping TypeName="ManPowerModel.Case">
+        <MappingFragment StoreEntitySet="Case">
+          <ScalarProperty Name="CaseID" ColumnName="CaseID" />
+          <ScalarProperty Name="StartDateTime" ColumnName="StartDateTime" />
+          <ScalarProperty Name="EndDateTime" ColumnName="EndDateTime" />
+          <ScalarProperty Name="MemberID" ColumnName="MemberID" />
+          <ScalarProperty Name="CaseTitle" ColumnName="CaseTitle" />
+          <ScalarProperty Name="CaseContent" ColumnName="CaseContent" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="Recommendation" ColumnName="Recommendation" />
+          <ScalarProperty Name="StatusID" ColumnName="StatusID" />
+          <ScalarProperty Name="RegionID" ColumnName="RegionID" />
+          <ScalarProperty Name="Contact" ColumnName="Contact" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CaseStatus">
+      <EntityTypeMapping TypeName="ManPowerModel.CaseStatu">
+        <MappingFragment StoreEntitySet="CaseStatus">
+          <ScalarProperty Name="StatusID" ColumnName="StatusID" />
+          <ScalarProperty Name="StatusName" ColumnName="StatusName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Chats">
+      <EntityTypeMapping TypeName="ManPowerModel.Chat">
+        <MappingFragment StoreEntitySet="Chat">
+          <ScalarProperty Name="MChatID" ColumnName="MChatID" />
+          <ScalarProperty Name="MemberID" ColumnName="MemberID" />
+          <ScalarProperty Name="MChatRoomID" ColumnName="MChatRoomID" />
+          <ScalarProperty Name="MChat" ColumnName="MChat" />
+          <ScalarProperty Name="MDate" ColumnName="MDate" />
+          <ScalarProperty Name="DeleteChat" ColumnName="DeleteChat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cities">
+      <EntityTypeMapping TypeName="ManPowerModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="CityID" ColumnName="CityID" />
+          <ScalarProperty Name="CityName" ColumnName="CityName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contents">
+      <EntityTypeMapping TypeName="ManPowerModel.Content">
+        <MappingFragment StoreEntitySet="Content">
+          <ScalarProperty Name="ContentID" ColumnName="ContentID" />
+          <ScalarProperty Name="CaseID" ColumnName="CaseID" />
+          <ScalarProperty Name="MemberID" ColumnName="MemberID" />
+          <ScalarProperty Name="MessageContent" ColumnName="MessageContent" />
+          <ScalarProperty Name="MessageDateTime" ColumnName="MessageDateTime" />
+          <ScalarProperty Name="AuthorRepeat" ColumnName="AuthorRepeat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GdsSubClasses">
+      <EntityTypeMapping TypeName="ManPowerModel.GdsSubClass">
+        <MappingFragment StoreEntitySet="GdsSubClass">
+          <ScalarProperty Name="GdsSubClassID" ColumnName="GdsSubClassID" />
+          <ScalarProperty Name="GdsClassID" ColumnName="GdsClassID" />
+          <ScalarProperty Name="GdsSubClass1" ColumnName="GdsSubClass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Goods">
+      <EntityTypeMapping TypeName="ManPowerModel.Good">
+        <MappingFragment StoreEntitySet="Goods">
+          <ScalarProperty Name="GdsID" ColumnName="GdsID" />
+          <ScalarProperty Name="GdsName" ColumnName="GdsName" />
+          <ScalarProperty Name="GdsCount" ColumnName="GdsCount" />
+          <ScalarProperty Name="GdsPoint" ColumnName="GdsPoint" />
+          <ScalarProperty Name="GdsDeadline" ColumnName="GdsDeadline" />
+          <ScalarProperty Name="GdsSubClassID" ColumnName="GdsSubClassID" />
+          <ScalarProperty Name="CaseID" ColumnName="CaseID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GoodsClasses">
+      <EntityTypeMapping TypeName="ManPowerModel.GoodsClass">
+        <MappingFragment StoreEntitySet="GoodsClass">
+          <ScalarProperty Name="GdsClassID" ColumnName="GdsClassID" />
+          <ScalarProperty Name="GdsClass" ColumnName="GdsClass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ManPowers">
+      <EntityTypeMapping TypeName="ManPowerModel.ManPower">
+        <MappingFragment StoreEntitySet="ManPower">
+          <ScalarProperty Name="MPID" ColumnName="MPID" />
+          <ScalarProperty Name="MPName" ColumnName="MPName" />
+          <ScalarProperty Name="MPNeedCount" ColumnName="MPNeedCount" />
+          <ScalarProperty Name="MPActuralCount" ColumnName="MPActuralCount" />
+          <ScalarProperty Name="MPPoint" ColumnName="MPPoint" />
+          <ScalarProperty Name="MPTime" ColumnName="MPTime" />
+          <ScalarProperty Name="CaseID" ColumnName="CaseID" />
+          <ScalarProperty Name="MPSubClassID" ColumnName="MPSubClassID" />
+          <ScalarProperty Name="MPDate" ColumnName="MPDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MC_Match">
+      <EntityTypeMapping TypeName="ManPowerModel.MC_Match">
+        <MappingFragment StoreEntitySet="MC_Match">
+          <ScalarProperty Name="MemberID" ColumnName="MemberID" />
+          <ScalarProperty Name="CaseID" ColumnName="CaseID" />
+          <ScalarProperty Name="Match" ColumnName="Match" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Members">
+      <EntityTypeMapping TypeName="ManPowerModel.Member">
+        <MappingFragment StoreEntitySet="Member">
+          <ScalarProperty Name="MemberID" ColumnName="MemberID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="MAccount" ColumnName="MAccount" />
+          <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="MPassword" ColumnName="MPassword" />
+          <ScalarProperty Name="Stage" ColumnName="Stage" />
+          <ScalarProperty Name="EXP" ColumnName="EXP" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="PointCount" ColumnName="PointCount" />
+          <ScalarProperty Name="RegionID" ColumnName="RegionID" />
+          <ScalarProperty Name="NickName" ColumnName="NickName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MemberStages">
+      <EntityTypeMapping TypeName="ManPowerModel.MemberStage">
+        <MappingFragment StoreEntitySet="MemberStage">
+          <ScalarProperty Name="Stage" ColumnName="Stage" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="RequiredEXP" ColumnName="RequiredEXP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MPClasses">
+      <EntityTypeMapping TypeName="ManPowerModel.MPClass">
+        <MappingFragment StoreEntitySet="MPClass">
+          <ScalarProperty Name="MPClassID" ColumnName="MPClassID" />
+          <ScalarProperty Name="MPClass1" ColumnName="MPClass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MPSCLists">
+      <EntityTypeMapping TypeName="ManPowerModel.MPSCList">
+        <MappingFragment StoreEntitySet="MPSCList">
+          <ScalarProperty Name="MPSubClassID" ColumnName="MPSubClassID" />
+          <ScalarProperty Name="MemberID" ColumnName="MemberID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MPSubClasses">
+      <EntityTypeMapping TypeName="ManPowerModel.MPSubClass">
+        <MappingFragment StoreEntitySet="MPSubClass">
+          <ScalarProperty Name="MPSubClassID" ColumnName="MPSubClassID" />
+          <ScalarProperty Name="MPClassID" ColumnName="MPClassID" />
+          <ScalarProperty Name="MPSubClass1" ColumnName="MPSubClass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pictures">
+      <EntityTypeMapping TypeName="ManPowerModel.Picture">
+        <MappingFragment StoreEntitySet="Picture">
+          <ScalarProperty Name="ImageID" ColumnName="ImageID" />
+          <ScalarProperty Name="Images" ColumnName="Images" />
+          <ScalarProperty Name="CaseID" ColumnName="CaseID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Regions">
+      <EntityTypeMapping TypeName="ManPowerModel.Region">
+        <MappingFragment StoreEntitySet="Region">
+          <ScalarProperty Name="RegionID" ColumnName="RegionID" />
+          <ScalarProperty Name="CityID" ColumnName="CityID" />
+          <ScalarProperty Name="RegionName" ColumnName="RegionName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="ManPowerModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
